@@ -1,0 +1,109 @@
+Last Updated: September 20, 2026
+1. DATA CONTROLLER
+Mr. Cheva - Games (Colombia) is the data controller of your personal data in accordance with Law 1581 of 2012 of Colombia and, for international users, the General Data Protection Regulation (GDPR) where applicable.
+Contact: Fz.Martin132@gmail.com
+
+2. DATA WE COLLECT
+Account data (provided by you):
+
+Nickname (username)
+
+Email address
+
+Password (encrypted and stored by Unity Player Account)
+
+Technical data (collected automatically):
+
+Device information (model, operating system, unique identifiers) exclusively for quality control and technical optimization.
+
+Usage and performance data via Unity Analytics (session time, game progression, technical errors).
+
+Purchase data:
+
+Transaction history processed by Google Play (we do not store credit card data).
+
+3. LEGAL BASES AND PURPOSES
+Authentication: We use your email and password to create and manage your account through Unity Player Account and enable progress saving in Unity Cloud Save.
+
+Quality control: Device data helps us identify technical errors and improve stability across different mobile models.
+
+Analytics: Unity Analytics provides aggregated metrics about gameplay behavior to improve the experience. We do not use this data for advertising or behavioral profiling.
+
+Purchase management: We verify transactions to activate products and prevent fraud.
+
+4. THIRD-PARTY SERVICES
+We exclusively use official Unity Technologies services:
+
+Unity Player Account: Profile management and authentication.
+
+Unity Cloud Save: Game data storage.
+
+Unity Analytics: Usage metrics (anonymous and aggregated).
+
+Google Play Console: Used only for Game distribution and payment processing.
+
+Commitment not to sell: We do not sell, rent, or distribute your personal data to third parties for commercial or advertising purposes. Data is only shared with the providers mentioned above for the technical operation of the Game.
+
+5. DATA SECURITY
+We implement reasonable technical and organizational measures to protect your information:
+
+Password encryption via Unity Player Account.
+
+Secure connections (HTTPS/TLS) for data transmission.
+
+Restricted access to personal data within our team.
+
+Important: No method of Internet transmission or electronic storage is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
+
+6. DATA RETENTION
+Account data: Retained while your account remains active.
+
+Analytics data: Retained in aggregated and anonymized form.
+
+Purchase data: Transaction records are retained for the period required by Colombian tax law.
+
+7. USER RIGHTS
+You have the right to:
+
+Access your personal data.
+
+Rectify inaccurate data.
+
+Delete your account and associated data.
+
+Object to data processing.
+
+Withdraw consent (where applicable).
+
+Account deletion procedure:
+
+To delete your account, send an email from your registered address to Fz.Martin132@gmail.com with the subject "Account Deletion."
+
+You will receive a response within a maximum of 24 business hours (Monday to Friday, 8:00 a.m. - 5:00 p.m., Colombia time).
+
+The response will indicate the scheduled deletion date.
+
+If you access the Game before the indicated date, deletion will be automatically canceled to protect your progress.
+
+Once executed, deletion is irreversible and you will lose access to your purchases and progress.
+
+8. MINORS
+The Game is rated for ages 10+ (ESRB E+10). We do not intentionally collect data from children under 13. If you are underage, you must have parental or guardian authorization.
+
+If you are a parent/guardian and believe your child has provided personal data without your consent, contact us immediately to delete such information.
+
+9. INTERNATIONAL TRANSFERS
+Unity Technologies may process data on servers located outside Colombia (including the United States and the European Union). By using the Game, you consent to this international transfer, guaranteed through standard contractual clauses for data protection.
+
+10. CHANGES TO THIS POLICY
+We may update this Privacy Policy occasionally. Significant changes will be notified through:
+
+A notice within the Game, or
+
+An email to your registered address.
+
+The "last updated" date at the top indicates when it was last reviewed.
+
+11. CONTACT AND PQRS
+To exercise your rights, submit Petitions, Complaints, Claims (PQRS), or privacy inquiries:
+Email: Fz.Martin132@gmail.com

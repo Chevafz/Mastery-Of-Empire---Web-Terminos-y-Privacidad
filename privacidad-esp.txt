@@ -1,0 +1,111 @@
+Última actualización: 20 de septiembre de 2026
+1. RESPONSABLE DEL TRATAMIENTO
+Mr. Cheva - Games (Colombia) es el responsable del tratamiento de sus datos personales conforme a la Ley 1581 de 2012 de Colombia y, para usuarios internacionales, el Reglamento General de Protección de Datos (GDPR) donde aplique.
+Contacto: Fz.Martin132@gmail.com
+
+2. DATOS QUE RECOPILAMOS
+Datos de cuenta (proporcionados por usted):
+
+Nickname (nombre de usuario)
+
+Correo electrónico
+
+Contraseña (almacenada de forma cifrada por Unity Player Account)
+
+Datos técnicos (recopilados automáticamente):
+
+Información del dispositivo (modelo, sistema operativo, identificadores únicos) exclusivamente para control de calidad y optimización técnica.
+
+Datos de uso y rendimiento mediante Unity Analytics (tiempo de sesión, progresión en el juego, errores técnicos).
+
+Datos de compras:
+
+Historial de transacciones procesadas por Google Play (no almacenamos datos de tarjetas de crédito).
+
+3. BASES LEGALES Y FINALIDADES
+Autenticación: Utilizamos su correo y contraseña para crear y gestionar su cuenta mediante Unity Player Account y permitir el guardado de progreso en Unity Cloud Save.
+
+Control de calidad: Los datos del dispositivo nos ayudan a identificar errores técnicos y mejorar la estabilidad del Juego en diferentes modelos de móviles.
+
+Analíticas: Unity Analytics nos proporciona métricas agregadas sobre el comportamiento de juego para mejorar la experiencia. No utilizamos estos datos para publicidad ni perfiles de comportamiento.
+
+Gestión de compras: Verificamos transacciones para activar productos y prevenir fraudes.
+
+4. SERVICIOS DE TERCEROS
+Utilizamos exclusivamente servicios oficiales de Unity Technologies:
+
+Unity Player Account: Gestión de perfiles y autenticación.
+
+Unity Cloud Save: Almacenamiento de datos de juego.
+
+Unity Analytics: Métricas de uso (anónimas y agregadas).
+
+Google Play Console: Utilizado únicamente para la distribución del Juego y procesamiento de pagos.
+
+Compromiso de no venta: No vendemos, alquilamos ni distribuimos sus datos personales a terceros con fines comerciales o publicitarios. Los datos solo se comparten con los proveedores mencionados anteriormente para la operación técnica del Juego.
+
+5. SEGURIDAD DE LOS DATOS
+Implementamos medidas técnicas y organizativas razonables para proteger su información:
+
+Cifrado de contraseñas mediante Unity Player Account.
+
+Conexiones seguras (HTTPS/TLS) para la transmisión de datos.
+
+Acceso restringido a datos personales dentro de nuestro equipo.
+
+Importante: Ningún método de transmisión por Internet o almacenamiento electrónico es 100% seguro. Aunque nos esforzamos por proteger sus datos, no podemos garantizar seguridad absoluta.
+
+6. CONSERVACIÓN DE DATOS
+Datos de cuenta: Se conservan mientras mantenga activa su cuenta.
+
+Datos de analíticas: Se conservan de forma agregada y anonimizada.
+
+Datos de compras: Conservamos registros de transacciones durante el tiempo exigido por la legislación fiscal colombiana.
+
+7. DERECHOS DEL USUARIO
+Usted tiene derecho a:
+
+Acceder a sus datos personales.
+
+Rectificar datos inexactos.
+
+Eliminar su cuenta y datos asociados.
+
+Oponerse al tratamiento de datos.
+
+Revocar el consentimiento (cuando aplique).
+
+Procedimiento de eliminación de cuenta:
+
+Para eliminar su cuenta, envíe un correo desde su correo registrado a Fz.Martin132@gmail.com con el asunto "Eliminación de Cuenta".
+
+Recibirá respuesta en un plazo máximo de 24 horas hábiles (Lunes a Viernes, 8:00 a.m. - 5:00 p.m., hora Colombia).
+
+En la respuesta se indicará la fecha programada para la eliminación.
+
+Si accede al Juego antes de la fecha indicada, la eliminación se cancelará automáticamente para proteger su progreso.
+
+Una vez ejecutada, la eliminación es irreversible y perderá acceso a sus compras y progreso.
+
+8. MENORES DE EDAD
+El Juego está clasificado para mayores de 10 años (ESRB E+10). No recopilamos intencionadamente datos de menores de 13 años. Si es menor de edad, debe contar con autorización de sus padres o tutores.
+
+Si usted es padre/madre/tutor y cree que su hijo nos ha proporcionado datos personales sin su consentimiento, contáctenos inmediatamente para eliminar dicha información.
+
+9. TRANSFERENCIAS INTERNACIONALES
+Unity Technologies puede procesar datos en servidores ubicados fuera de Colombia (incluyendo Estados Unidos y la Unión Europea). Al usar el Juego, usted acepta esta transferencia internacional, garantizada mediante cláusulas contractuales estándar de protección de datos.
+
+10. CAMBIOS A ESTA POLÍTICA
+Podemos actualizar esta Política de Privacidad ocasionalmente. Le notificaremos cambios significativos mediante:
+
+Un aviso dentro del Juego, o
+
+Un correo electrónico a su dirección registrada.
+
+La fecha de "última actualización" en la parte superior indica cuándo se revisó por última vez.
+
+11. CONTACTO Y PQRS
+Para ejercer sus derechos, presentar Peticiones, Quejas, Reclamos (PQRS) o consultas sobre privacidad:
+Email: Fz.Martin132@gmail.com
+Horario: Lunes a Viernes, 8:00 a.m. - 5:00 p.m. (Hora Colombia)
+Nota: Solo respondemos correos relacionados con cuentas de jugadores, compras y PQRS. Los correos promocionales, spam o colaboraciones comerciales no serán atendidos en este canal.

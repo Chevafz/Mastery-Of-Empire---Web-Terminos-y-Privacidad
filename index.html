@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mastery Of Empire - Legal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a2e;
+            color: #eaeaea;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header */
+        header {
+            background-color: #16213e;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #0f3460;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        /* Tabs - Izquierda */
+        .tabs-container {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            background-color: #0f3460;
+            color: #eaeaea;
+            border: none;
+            padding: 12px 24px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .tab-btn:hover {
+            background-color: #533483;
+            transform: translateY(-2px);
+        }
+
+        .tab-btn.active {
+            background-color: #e94560;
+            color: white;
+            box-shadow: 0 4px 12px rgba(233, 69, 96, 0.3);
+        }
+
+        /* Language Selector - Derecha */
+        .lang-selector {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            background-color: #0f3460;
+            padding: 5px;
+            border-radius: 6px;
+        }
+
+        .lang-btn {
+            background: transparent;
+            border: none;
+            color: #888;
+            padding: 8px 16px;
+            cursor: pointer;
+            font-weight: 600;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        .lang-btn.active {
+            background-color: #e94560;
+            color: white;
+        }
+
+        .lang-btn:hover:not(.active) {
+            color: #eaeaea;
+        }
+
+        /* Main Content */
+        main {
+            flex: 1;
+            max-width: 900px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .page-title {
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            color: #e94560;
+            text-align: center;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .content-box {
+            background-color: #16213e;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            border: 1px solid #0f3460;
+        }
+
+        .text-content {
+            line-height: 1.8;
+            font-size: 1.05rem;
+            color: #d4d4d4;
+            white-space: pre-wrap;
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        .text-content h1, .text-content h2, .text-content h3 {
+            color: #e94560;
+            margin: 25px 0 15px 0;
+        }
+
+        .text-content p {
+            margin-bottom: 15px;
+        }
+
+        /* Loading state */
+        .loading {
+            text-align: center;
+            color: #888;
+            font-style: italic;
+            padding: 40px;
+        }
+
+        .error {
+            color: #e94560;
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(233, 69, 96, 0.1);
+            border-radius: 8px;
+            border: 1px solid #e94560;
+        }
+
+        /* Footer - Contacto */
+        footer {
+            background-color: #16213e;
+            border-top: 2px solid #0f3460;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .contact-info {
+            max-width: 600px;
+            margin: 0 auto;
+            white-space: pre-wrap;
+            line-height: 1.8;
+            color: #888;
+            font-size: 0.95rem;
+            text-align: center;
+        }
+
+        .contact-info strong {
+            color: #eaeaea;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .tabs-container {
+                justify-content: center;
+            }
+            
+            .lang-selector {
+                justify-content: center;
+            }
+            
+            .page-title {
+                font-size: 1.8rem;
+            }
+            
+            .content-box {
+                padding: 25px;
+            }
+            
+            .tab-btn {
+                padding: 10px 16px;
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <!-- Pestañas Izquierda -->
+        <div class="tabs-container">
+            <button class="tab-btn active" id="tab-terminos" onclick="cambiarTab('terminos')">
+                TÉRMINOS DE SERVICIO
+            </button>
+            <button class="tab-btn" id="tab-privacidad" onclick="cambiarTab('privacidad')">
+                POLÍTICA DE PRIVACIDAD
+            </button>
+        </div>
+
+        <!-- Selector Idioma Derecha -->
+        <div class="lang-selector">
+            <button class="lang-btn active" id="lang-eng" onclick="cambiarIdioma('eng')">Eng</button>
+            <button class="lang-btn" id="lang-esp" onclick="cambiarIdioma('esp')">Esp</button>
+        </div>
+    </header>
+
+    <main>
+        <h1 class="page-title" id="page-title">TÉRMINOS DE SERVICIO</h1>
+        <div class="content-box">
+            <div class="text-content" id="content-area">
+                <div class="loading">Cargando contenido...</div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="contact-info" id="contact-info">
+            <!-- Se carga desde contacto-*.txt -->
+        </div>
+    </footer>
+
+    <script>
+        // Estado actual
+        let idiomaActual = 'eng';
+        let pestanaActual = 'terminos';
+
+        // Configuración de títulos
+        const titulos = {
+            terminos: {
+                eng: 'TERMS OF SERVICE',
+                esp: 'TÉRMINOS DE SERVICIO'
+            },
+            privacidad: {
+                eng: 'PRIVACY POLICY',
+                esp: 'POLÍTICA DE PRIVACIDAD'
+            }
+        };
+
+        // Nombres de archivos según selección
+        const archivos = {
+            terminos: {
+                eng: 'terminos-eng.txt',
+                esp: 'terminos-esp.txt'
+            },
+            privacidad: {
+                eng: 'privacidad-eng.txt',
+                esp: 'privacidad-esp.txt'
+            },
+            contacto: {
+                eng: 'contacto-eng.txt',
+                esp: 'contacto-esp.txt'
+            }
+        };
+
+        // Cambiar pestaña (Términos/Privacidad)
+        function cambiarTab(tipo) {
+            pestanaActual = tipo;
+            
+            // Actualizar clases activas
+            document.getElementById('tab-terminos').classList.remove('active');
+            document.getElementById('tab-privacidad').classList.remove('active');
+            document.getElementById('tab-' + tipo).classList.add('active');
+            
+            // Actualizar título
+            document.getElementById('page-title').textContent = titulos[tipo][idiomaActual];
+            
+            // Cargar contenido
+            cargarContenido(archivos[tipo][idiomaActual], 'content-area');
+        }
+
+        // Cambiar idioma
+        function cambiarIdioma(idioma) {
+            idiomaActual = idioma;
+            
+            // Actualizar botones
+            document.getElementById('lang-eng').classList.remove('active');
+            document.getElementById('lang-esp').classList.remove('active');
+            document.getElementById('lang-' + idioma).classList.add('active');
+            
+            // Actualizar título de la pestaña actual
+            document.getElementById('page-title').textContent = titulos[pestanaActual][idioma];
+            
+            // Recargar contenidos
+            cargarContenido(archivos[pestanaActual][idioma], 'content-area');
+            cargarContenido(archivos.contacto[idioma], 'contact-info');
+        }
+
+        // Cargar archivo TXT
+        function cargarContenido(archivo, elementoId) {
+            const elemento = document.getElementById(elementoId);
+            elemento.innerHTML = '<div class="loading">Loading...</div>';
+            
+            fetch(archivo)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Archivo no encontrado');
+                    }
+                    return response.text();
+                })
+                .then(texto => {
+                    elemento.textContent = texto;
+                })
+                .catch(error => {
+                    elemento.innerHTML = `<div class="error">
+                        Error loading file: ${archivo}<br>
+                        Make sure the file exists in the same folder as this HTML.
+                    </div>`;
+                });
+        }
+
+        // Carga inicial
+        window.onload = function() {
+            cargarContenido('terminos-eng.txt', 'content-area');
+            cargarContenido('contacto-eng.txt', 'contact-info');
+        };
+    </script>
+
+</body>
+</html>

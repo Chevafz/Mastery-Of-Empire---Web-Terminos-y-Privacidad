@@ -1,0 +1,99 @@
+Last Updated: September 20, 2026
+1. ACCEPTANCE OF TERMS
+By downloading, installing, or using Mastery Of Empire (the "Game"), developed by Mr. Cheva - Games ("we," "our," or the "Company"), located in Colombia, you ("User" or "Player") agree to be legally bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not download or use the Game.
+
+2. LICENSE OF USE
+The User is granted a limited, non-exclusive, non-transferable, and revocable license to use the Game solely for personal and non-commercial purposes on mobile devices owned or controlled by the User, in accordance with the Google Play Store Terms of Service.
+
+Restrictions:
+
+You may not modify, decompile, reverse engineer, or create derivative works of the Game.
+
+You may not use cheats, exploits, bots, or any third-party software to alter the gameplay experience.
+
+You may not commercialize, sell, or rent Game accounts or its content.
+
+3. USER ACCOUNTS
+The Game uses Unity Player Account for profile management. By creating an account, you are responsible for:
+
+Maintaining the confidentiality of your credentials (email and password).
+
+All activities occurring under your account.
+
+Immediately notifying any unauthorized use to: Fz.Martin132@gmail.com.
+
+Minimum Age: The Game is rated E+10 (Everyone 10+) by the ESRB. By creating an account, you declare that you are at least 10 years old. Since we do not collect age data, we cannot verify majority age; if you are underage, you must have parental or legal guardian consent.
+
+Nicknames: Usernames must not contain offensive, vulgar, discriminatory content, or infringe third-party rights. We reserve the right to modify or suspend accounts with inappropriate nicknames.
+
+4. IN-APP PURCHASES (IAP)
+The Game is paid on Google Play Store and includes in-app purchases processed exclusively by Google Play Billing.
+
+Processing: All transactions are processed by Google. We do not store credit card or financial data.
+
+Delivery: Once payment is confirmed by Google, items will be activated in your account. Purchased products are intangible, non-transferable, and linked exclusively to your personal account.
+
+Delivery Errors: If you make a purchase and do not receive the product, you must send the purchase receipt (Google Play invoice) to Fz.Martin132@gmail.com. We will respond within a maximum of 24 business hours (working days from 8:00 a.m. to 5:00 p.m., Colombia time).
+
+Refunds: Refunds are managed by Google Play according to its official policy. If Google approves a refund, we will be notified and will revoke the purchased products.
+
+Fraud: If we detect fraud attempts (such as requesting refunds after consuming content), we reserve the right to suspend or permanently delete the account.
+
+5. CONDUCT AND SANCTIONS
+Although the Game is primarily single-player, the following are prohibited:
+
+Use of hacks, modifications, or automation altering the game.
+
+Exploiting bugs or glitches to gain advantages.
+
+Selling, exchanging, or transferring accounts.
+
+Sanction System: Depending on severity, violations may result in:
+
+Warnings
+
+Temporary suspension
+
+Permanent suspension
+
+Account deletion without refund rights
+
+6. INTELLECTUAL PROPERTY
+All Game content (graphics, music, code, design, brand "Mastery Of Empire") is the exclusive property of Mr. Cheva - Games and is protected by copyright laws and international treaties.
+
+User-Generated Content (UGC): Although the Game does not allow uploading custom content (maps, skins, mods), you may freely create and publish external content (screenshots, videos, streams) provided that:
+
+It is not for commercial purposes without our written consent.
+
+It is properly attributed to the Game.
+
+It does not violate these Terms or applicable law.
+
+7. AVAILABILITY AND MODIFICATIONS
+The Game is provided "as is" and "as available."
+We may update, modify, or discontinue Game features at any time.
+We do not guarantee the Game will be error-free or uninterrupted, although we use Unity Cloud Save to back up data.
+
+8. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, Mr. Cheva - Games shall not be liable for:
+
+Loss of game data due to user device failures (although we use Unity Cloud Save, we recommend linking your account to avoid losses).
+
+Indirect, incidental, or consequential damages.
+
+Service interruptions due to maintenance or force majeure.
+
+9. TERMINATION
+You may stop using the Game at any time. We may suspend or terminate your access if you breach these Terms. Upon termination, your license to use the Game will immediately cease.
+
+10. GOVERNING LAW AND JURISDICTION
+These Terms are governed by the laws of the Republic of Colombia. Any dispute will be resolved in the competent courts of Colombia, unless consumer protection laws of your country of residence require otherwise.
+
+11. CONTACT
+For questions about these Terms:
+
+Email: Fz.Martin132@gmail.com
+
+Business Hours: Monday to Friday, 8:00 a.m. - 5:00 p.m. (Colombia Time)
+
+Response Time: Maximum 24 business hours
