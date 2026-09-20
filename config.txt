@@ -1,20 +1,20 @@
 # Colores principales
-color_fondo=#1a1a2e
+color_fondo=#2E2E2E
 color_texto_general=#eaeaea
-color_titulos=#e94560
+color_titulos=#49B6E6
 
 # Paneles y contenedores
-color_panel=#16213e
-color_borde_panel=#0f3460
+color_panel=#242424
+color_borde_panel=#66ABB0
 
 # Botones
-color_boton_fondo=#0f3460
+color_boton_fondo=#2E2E2E
 color_boton_texto=#eaeaea
-color_boton_activo=#e94560
+color_boton_activo=#58A9CC
 color_boton_activo_texto=#ffffff
-color_boton_hover=#533483
+color_boton_hover=#88CDEB
 
 # Footer/Contacto
-color_footer_fondo=#16213e
+color_footer_fondo=#242424
 color_footer_texto=#888888
-color_footer_borde=#0f3460
+color_footer_borde=#66ABB0
